@@ -1,4 +1,4 @@
-import { StyleSheet, Platform,  View, SafeAreaView, Text, TouchableOpacity, ToastAndroid} from 'react-native';
+import { StyleSheet, Platform,  View, SafeAreaView, Text, TouchableOpacity} from 'react-native';
 import { useEffect, useState } from 'react';
 import Header from "../../components/Header"
 import Timer from "../../components/Timer"
